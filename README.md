@@ -1,9 +1,5 @@
 # 3D-Attention-in-tf2--Additive,Position,Channel Attention
-In recent years we have seen a numbers of implementation with some adiitional attention to tha task(classification/segmentation).
-This repo contains the 3D implementation of the commonly used attention mechanism for imaging.
-
-
-
+In recent years we have seen a number of implementations with some additional attention to the task(classification/segmentation). This repo contains the 3D implementation of the commonly used attention mechanism for imaging.
 
 
 ##  Additive Attention Gate (AG)-3D
