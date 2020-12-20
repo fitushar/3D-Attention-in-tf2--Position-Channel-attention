@@ -11,7 +11,7 @@ This repo contains the 3D implementation of the commonly used attention mechanis
 Oktay, Ozan, et al. "Attention u-net: Learning where to look for the pancreas." arXiv preprint arXiv:1804.03999 (2018).
 
 ```
-![dsc](https://github.com/fitushar/3D-Attention-in-tf2--Position-Channel-attention/tree/main/Figures/AG.PNG)
+![dsc](https://github.com/fitushar/3D-Attention-in-tf2--Position-Channel-attention/blob/main/Figures/AG.PNG)
 
 ### code
 ```ruby
@@ -56,7 +56,7 @@ def Attention_mechanism(X,G,out_filters,kernel_size=1,strides=(1, 1, 1),use_bias
 Fu, Jun, et al. "Dual attention network for scene segmentation." 
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.
 ```
-![dsc](https://github.com/fitushar/3D-Attention-in-tf2--Position-Channel-attention/tree/main/Figures/PA.PNG)
+![dsc](https://github.com/fitushar/3D-Attention-in-tf2--Position-Channel-attention/blob/main/Figures/PA.PNG)
 ### code
 ```ruby
 def Position_attention(postion_attention_input):
@@ -99,7 +99,7 @@ def Position_attention(postion_attention_input):
 Fu, Jun, et al. "Dual attention network for scene segmentation." 
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.
 ```
-![dsc](https://github.com/fitushar/3D-Attention-in-tf2--Position-Channel-attention/tree/main/Figures/CA.PNG)
+![dsc](https://github.com/fitushar/3D-Attention-in-tf2--Position-Channel-attention/blob/main/Figures/CA.PNG)
 ### code
 ```ruby
 def Channel_attention(Channel_attention_input):
