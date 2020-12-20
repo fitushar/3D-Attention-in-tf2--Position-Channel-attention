@@ -1,4 +1,4 @@
-# 3D-Attention-in-tf2--Position-Channel-attention
+# 3D-Attention-in-tf2--Additive,Position,Channel Attention
 In recent years we have seen a numbers of implementation with some adiitional attention to tha task(classification/segmentation).
 This repo contains the 3D implementation of the commonly used attention mechanism for imaging.
 
